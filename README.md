@@ -1,3 +1,4 @@
+LIVE DEMO LINK : https://smart-genz-chatbot.streamlit.app/
 # 💬 CHATBOT – Smart Gen-Z AI Assistant
 
 A modern, topic-aware AI chatbot built using **FastAPI**, **Groq LLM**, and **Streamlit**, featuring a full-screen AI background and Gen-Z styled UI.
