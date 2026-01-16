@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # ================= CONFIG =================
-BACKEND_URL = "BACKEND_URL = "https://smart-genz-chatbot-2.onrender.com/chat"
+BACKEND_URL = "https://smart-genz-chatbot-2.onrender.com/chat"
 
 st.set_page_config(
     page_title="CHATBOT",
